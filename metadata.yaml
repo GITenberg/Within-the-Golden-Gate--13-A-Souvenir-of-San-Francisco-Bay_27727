@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '32868'
     url: http://www.gutenberg.org/2009/agents/32868
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27727#Within-the-Golden-Gate--13-A-Souvenir-of-San-Francisco-Bay
 gutenberg_issued: '2009-01-07'
 gutenberg_type: Text
 identifiers:
