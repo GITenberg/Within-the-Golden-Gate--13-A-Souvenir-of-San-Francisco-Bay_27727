@@ -1,0 +1,30 @@
+_repo: Within-the-Golden-Gate--13-A-Souvenir-of-San-Francisco-Bay_27727
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pierce, Ella N.
+    gutenberg_agent_id: '32869'
+    url: http://www.gutenberg.org/2009/agents/32869
+covers:
+- cover_type: archival
+  image_path: 27727-h/images/cover.png
+creator:
+  author:
+    agent_name: Pinney, Laura Ann Young
+    birthdate: 1849
+    gutenberg_agent_id: '32868'
+    url: http://www.gutenberg.org/2009/agents/32868
+description: ''
+gutenberg_issued: '2009-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27727'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'San Francisco Bay (Calif.) -- Poetry'
+- !lcc 'PS'
+title: "Within the Golden Gate\r\nA Souvenir of San Francisco Bay"
+url: http://www.gutenberg.org/ebooks/27727
